@@ -1,0 +1,13 @@
+body {background-image: url(images/clouds.jpg); background-size: cover; margin: 0 auto; text-align: center;}
+img:not(.header, .designs, .skills) {image-rendering: optimizeQuality; border: 5px lightpink ridge;}
+
+img:not(.header, .designs, .skills):hover {filter: grayscale(200%);}
+.first img {margin: 10px 30px;}
+
+div {background-image: url(images/Stars.gif); background-repeat:repeat;}
+
+.header {background-image: url(images/range.png);}
+.top { margin-top: -255px; }
+.bottom { margin-top:330px; margin-bottom: 60px; margin-left: -355px;}
+
+p {font-family:'Courier New', Courier, monospace; font-weight: 900; margin: 2px; font-size: 20px;}
