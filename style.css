@@ -11,3 +11,5 @@ div {background-image: url(images/Stars.gif); background-repeat:repeat;}
 .bottom { margin-top:330px; margin-bottom: 60px; margin-left: -355px;}
 
 p {font-family:'Courier New', Courier, monospace; font-weight: 900; margin: 2px; font-size: 20px;}
+
+@media screen and (max-width: 800px) { img {width: 400px;}}
