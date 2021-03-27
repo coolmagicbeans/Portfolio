@@ -13,4 +13,4 @@ div {background-image: url(images/Stars.gif); background-repeat:repeat;}
 p {font-family:'Courier New', Courier, monospace; font-weight: 900; margin: 2px; font-size: 20px;}
 
 @media screen and (max-width: 800px) { img {width: 350px; margin: 0 auto; margin-left: 0px; margin-top: 0px; margin-right:0px; margin-bottom: 0px; text-align: center;} body, div, * {margin: 0 auto; text-align: center;} .bottom {margin-left: 0px; margin-top:0px;} .top{margin-top: 0px}
-.first{margin-left: 0px;}}
+.first img {margin-left: 0px; margin-right: 0px;}}
